@@ -1,26 +1,26 @@
 A-to-Z-Supporter 
 =============
-³í¹®°ü·ÃÁö¿ø»çÀÌÆ®
+ë…¼ë¬¸ê´€ë ¨ì§€ì›ì‚¬ì´íŠ¸
 --------------------
 
-# A to ZÀÇ ¸ñÇ¥
->1. ³í¹®ÀÛ¼º °úÁ¤¿¡¼­ Å¸ÀÎ°úÀÇ ¿øÈ°ÇÑ ÀÇ»ç¼ÒÅëÀ» Á¦°øÇÔÀ¸·Î½á ³í¹®ÀÇ ÁúÀ» ³ôÀÎ´Ù. 
->2. ³í¹®¿¡ ´ëÇÑ ÇÇµå¹é °úÁ¤¿¡¼­ ÄÚ¸àÅÍ¿¡°Ô º¸»óÀ» Á¦°øÇØ ¼öÀÍÃ¢ÃâÀ» °¡´ÉÇÏ°ÔÇÑ´Ù.
+## A to Zì˜ ëª©í‘œ
+>1. ë…¼ë¬¸ì‘ì„± ê³¼ì •ì—ì„œ íƒ€ì¸ê³¼ì˜ ì›í™œí•œ ì˜ì‚¬ì†Œí†µì„ ì œê³µí•¨ìœ¼ë¡œì¨ ë…¼ë¬¸ì˜ ì§ˆì„ ë†’ì¸ë‹¤. 
+>2. ë…¼ë¬¸ì— ëŒ€í•œ í”¼ë“œë°± ê³¼ì •ì—ì„œ ì½”ë©˜í„°ì—ê²Œ ë³´ìƒì„ ì œê³µí•´ ìˆ˜ìµì°½ì¶œì„ ê°€ëŠ¥í•˜ê²Œí•œë‹¤.
 
-# A to ZÀÇ Æ¯Â¡
->1. ÀÇ»ç¼ÒÅëÀÇ È¿À²¼º Á¦°ø
->2. ¾Ë¸²À» ÅëÇÑ ¸ÂÃãÇü Á¤º¸ Á¦°ø
->3. ´Ù¾çÇÑ °Ë»ö ¿É¼ÇÀ» ÅëÇØ °Ë»öÀÇ Á¤È®µµ Çâ»ó
->4. ÄÚ¸àÅÍ¿¡°Ô º¸»óÀ» ÅëÇØ °ø·Î ÀÎÁ¤
->5. ÅäÅ«À¸·Î ´Ù¾çÇÑ ¼öÀÍ Ã¢Ãâ °¡´É
+## A to Zì˜ íŠ¹ì§•
+>1. ì˜ì‚¬ì†Œí†µì˜ íš¨ìœ¨ì„± ì œê³µ
+>2. ì•Œë¦¼ì„ í†µí•œ ë§ì¶¤í˜• ì •ë³´ ì œê³µ
+>3. ë‹¤ì–‘í•œ ê²€ìƒ‰ ì˜µì…˜ì„ í†µí•´ ê²€ìƒ‰ì˜ ì •í™•ë„ í–¥ìƒ
+>4. ì½”ë©˜í„°ì—ê²Œ ë³´ìƒì„ í†µí•´ ê³µë¡œ ì¸ì •
+>5. í† í°ìœ¼ë¡œ ë‹¤ì–‘í•œ ìˆ˜ìµ ì°½ì¶œ ê°€ëŠ¥
 
-## UI ±¸Çö
+### UI êµ¬í˜„
 
-[ÇÁ·ÎÁ§Æ® ÁøÇàÇöÈ²] (https://github.com/users/ingchang0125/projects/2 "Github Project") <br>
-[ÆÀµå¶óÀÌºê] (https://drive.google.com/drive/folders/0AMFbMhEUKon9Uk9PVA "Google Drive") <br>
-[½ºÅä¸®º¸µå] (https://ovenapp.io/project/Q5eGmnBF9vKtmxePBk6e2FuIuO0Huhwr#RJXub "Kakao Oven") <br><br>
-[UI±¸Çö]<pre><code>
-1.ÄÚ¸àÆ®¿äÃ» (https://ovenapp.io/view/2R9Gyjj5N6sL9pnvatyqciaYJAqCM5dP/ySCIB "Kakao Oven")<br>
-2.½ºÅ©¸°¼¦ ¸Ş¼¼Áö (https://ovenapp.io/view/SJwj21P3SSQInCjBnWUpVagPPXMuibFy/ATQUC "Kakao Oven")<br>
-3.´ëÇ¥³í¹®°Ô½Ã (https://ovenapp.io/view/NiE5Yv8wKmNaBISzEEmaicQNN9R9Ili8/P0ixl "KAkao Oven")<br>
+[í”„ë¡œì íŠ¸ ì§„í–‰í˜„í™©] (https://github.com/users/ingchang0125/projects/2 "Github Project") <br>
+[íŒ€ë“œë¼ì´ë¸Œ] (https://drive.google.com/drive/folders/0AMFbMhEUKon9Uk9PVA "Google Drive") <br>
+[ìŠ¤í† ë¦¬ë³´ë“œ] (https://ovenapp.io/project/Q5eGmnBF9vKtmxePBk6e2FuIuO0Huhwr#RJXub "Kakao Oven") <br><br>
+[UIêµ¬í˜„]<pre><code>
+1.ì½”ë©˜íŠ¸ìš”ì²­ (https://ovenapp.io/view/2R9Gyjj5N6sL9pnvatyqciaYJAqCM5dP/ySCIB "Kakao Oven")<br>
+2.ìŠ¤í¬ë¦°ìƒ· ë©”ì„¸ì§€ (https://ovenapp.io/view/SJwj21P3SSQInCjBnWUpVagPPXMuibFy/ATQUC "Kakao Oven")<br>
+3.ëŒ€í‘œë…¼ë¬¸ê²Œì‹œ (https://ovenapp.io/view/NiE5Yv8wKmNaBISzEEmaicQNN9R9Ili8/P0ixl "KAkao Oven")<br>
 </code></pre>
