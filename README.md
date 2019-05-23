@@ -3,18 +3,18 @@ A-to-Z-Supporter
 논문관련지원사이트
 --------------------
 
-#A to Z의 목표
+# A to Z의 목표
 >1. 논문작성 과정에서 타인과의 원활한 의사소통을 제공함으로써 논문의 질을 높인다. 
 >2. 논문에 대한 피드백 과정에서 코멘터에게 보상을 제공해 수익창출을 가능하게한다.
 
-#A to Z의 특징
+# A to Z의 특징
 >1. 의사소통의 효율성 제공
 >2. 알림을 통한 맞춤형 정보 제공
 >3. 다양한 검색 옵션을 통해 검색의 정확도 향상
 >4. 코멘터에게 보상을 통해 공로 인정
 >5. 토큰으로 다양한 수익 창출 가능
 
-##UI 구현
+## UI 구현
 
 [프로젝트 진행현황] (https://github.com/users/ingchang0125/projects/2 "Github Project") <br>
 [팀드라이브] (https://drive.google.com/drive/folders/0AMFbMhEUKon9Uk9PVA "Google Drive") <br>
