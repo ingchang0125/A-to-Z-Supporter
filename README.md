@@ -38,5 +38,6 @@ A-to-Z-Supporter
 * [스크린샷 메세지](https://ovenapp.io/view/SJwj21P3SSQInCjBnWUpVagPPXMuibFy/ATQUC "Kakao Oven")<br>
 * [대표논문게시](https://ovenapp.io/view/NiE5Yv8wKmNaBISzEEmaicQNN9R9Ili8/P0ixl "KAkao Oven")<br>
 <hr>
-### 팀원
-최창훈 안진영 이천붕 정현빈 김은수
+
+### 팀원(시스템 분석 및 설계 4조)
+>최창훈 안진영 이천붕 정현빈 김은수
